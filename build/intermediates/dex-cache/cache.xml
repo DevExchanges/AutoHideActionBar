@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ecpay/Downloads/AutoHideActionbar/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
+        <dex dex="/Users/ecpay/Downloads/AutoHideActionbar/app/build/intermediates/pre-dexed/debug/classes-4cc49babb01d1a756d92bf2339fabc257fd39fae.jar" />
+    </item>
+    <item
+        jar="/Users/ecpay/Downloads/AutoHideActionbar/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/ecpay/Downloads/AutoHideActionbar/app/build/intermediates/pre-dexed/debug/classes-83f6c9450208f7bd7f315add82221ad7c5e26e97.jar" />
+    </item>
+
+</items>

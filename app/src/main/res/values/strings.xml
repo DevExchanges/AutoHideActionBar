@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto Hide Actionbar</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="scroll">Observable ScrollView</string>
+    <string name="list">Observable ListView</string>
+    <string name="web">Observable WebView</string>
+    <string name="search">Custom Search&#8230;</string>
+</resources>
